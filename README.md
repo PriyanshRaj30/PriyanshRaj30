@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning AL/ML<br>🎯<br>🎲 Fun fact: The phrase “can’t make a tommelet without breaking some gregs</p>
+<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning AL/ML<br>🎯<br>🎲 Fun fact: “can’t make a tommelet without breaking some gregs</p>
 
 ###
 
