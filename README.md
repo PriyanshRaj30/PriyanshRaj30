@@ -22,20 +22,28 @@
 
 <details>	
   <summary><b>Programming Languages</b></summary>
-  <a href="https://java.com" target="_blank">
-    <img src="https://img.shields.io/badge/-java-black?style=for-the-badge" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge" />
-  </a>
   <a href="https://python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-python-black?style=for-the-badge" />
   </a>
-  <a href="https://typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-typescript-black?style=for-the-badge" />
+  <a href="https://java.com" target="_blank">
+    <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/-CPP-black?style=for-the-badge" />
+  </a>
+  <a href="https://react.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-react-black?style=for-the-badge" />
   </a>
   <a href="https://w3schools.com/sql/sql_intro.asp/" target="_blank">
     <img src="https://img.shields.io/badge/-sql-black?style=for-the-badge" />
+  </a>
+  </a>
+  <a href="https://w3schools.com/sql/sql_intro.asp/" target="_blank">
+    <img src="https://img.shields.io/badge/-mongodb-black?style=for-the-badge" />
+  </a>
+  </a>
+  <a href="https://w3schools.com/sql/sql_intro.asp/" target="_blank">
+    <img src="https://img.shields.io/badge/-nodejs-black?style=for-the-badge" />
   </a>
   
 </details>
