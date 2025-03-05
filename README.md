@@ -14,7 +14,7 @@
 </p>
 
 # Hey! Nice to meet you <img src="sunglasses.gif" width="30"/>
-- I'm Priyanshu Raj, currently working as a Software Engineering Intern, carving my own path in the ever-evolving tech world. I thrive on adrenaline and passion, blending the best of both worlds—a mind wired for tech and a flair for imagination.
+- I'm Priyanshu Raj, carving my own path in the ever-evolving tech world. I thrive on adrenaline and passion, blending the best of both worlds—a mind wired for tech and a flair for imagination.
 - While F**** **** may have rules about not talking, I'm always ready to dive into discussions about technology, strategy, and what makes the digital world tick.
 
 
