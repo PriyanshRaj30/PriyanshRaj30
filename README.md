@@ -1,6 +1,6 @@
 <br>
 <p align= "center">
-    <img width="750px" src="assets/quote.svg" />
+    <img width="750px" src="quote.svg" />
 </p>
 
 <p align="right">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-# Hey! Nice to meet you <img src="assets/sunglasses.gif" width="30"/>
+# Hey! Nice to meet you <img src="sunglasses.gif" width="30"/>
 - I'm Priyanshu Raj, currently in the final year of my Bachelor of Computer Science, carving my own path in the ever-evolving tech world. I thrive on adrenaline and passion, blending the best of both worlds—a mind wired for tech and a flair for imagination.
 - While F**** **** may have rules about not talking, I'm always ready to dive into discussions about technology, strategy, and what makes the digital world tick.
 
