@@ -19,17 +19,14 @@
 - While F**** **** may have rules about not talking, I'm always ready to dive into discussions about technology, strategy, and what makes the digital world tick.
 
 
-## My tech knowledge
+## My Tech Knowledge
 
-<details>	
   <a href="https://python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-python-black?style=for-the-badge" />
   </a>
-<details>	
   <a href="https://python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-tensorFlow-black?style=for-the-badge" />
   </a>
-<details>	
   <a href="https://python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-pytorch-black?style=for-the-badge" />
   </a>
@@ -66,8 +63,7 @@
     <img src="https://img.shields.io/badge/-nodejs-black?style=for-the-badge" />
   </a>
   
-</details>
-
+</br>
 
 
 Here are some [🦜 party parrots]:
