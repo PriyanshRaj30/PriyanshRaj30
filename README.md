@@ -25,6 +25,14 @@
   <a href="https://python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-python-black?style=for-the-badge" />
   </a>
+<details>	
+  <a href="https://python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-tensorFlow-black?style=for-the-badge" />
+  </a>
+<details>	
+  <a href="https://python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-pytorch-black?style=for-the-badge" />
+  </a>
   <a href="https://java.com" target="_blank">
     <img src="https://img.shields.io/badge/-javascript-black?style=for-the-badge" />
   </a>
@@ -40,6 +48,18 @@
   </a>
   <a href="https://w3schools.com/sql/sql_intro.asp/" target="_blank">
     <img src="https://img.shields.io/badge/-mongodb-black?style=for-the-badge" />
+  </a>
+  </a>
+  <a href="https://w3schools.com/sql/sql_intro.asp/" target="_blank">
+    <img src="https://img.shields.io/badge/-expressjs-black?style=for-the-badge" />
+  </a>
+  </a>
+  <a href="https://w3schools.com/sql/sql_intro.asp/" target="_blank">
+    <img src="https://img.shields.io/badge/-tailwind-black?style=for-the-badge" />
+  </a>
+  </a>
+  <a href="https://w3schools.com/sql/sql_intro.asp/" target="_blank">
+    <img src="https://img.shields.io/badge/-tailwind-black?style=for-the-badge" />
   </a>
   </a>
   <a href="https://w3schools.com/sql/sql_intro.asp/" target="_blank">
