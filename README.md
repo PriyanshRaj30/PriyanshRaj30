@@ -22,7 +22,6 @@
 ## My tech knowledge
 
 <details>	
-  <summary><b>Programming Languages</b></summary>
   <a href="https://python.org/" target="_blank">
     <img src="https://img.shields.io/badge/-python-black?style=for-the-badge" />
   </a>
